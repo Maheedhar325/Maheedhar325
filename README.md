@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Dell_Boomi-%2314354C.svg?&style=for-the-badge&logo=dell&logoColor=white"/>
 </div>
 
-### Other Skills
+### Data & Analytics Expertise
 <div align="center">
   <img src="https://img.shields.io/badge/ETL-%2314354C.svg?&style=for-the-badge&logo=etl&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Lake-%2314354C.svg?&style=for-the-badge&logo=data-lake&logoColor=white"/>
