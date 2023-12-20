@@ -4,7 +4,7 @@
 
 I'm a data analytics engineer, I thrive on handling unstructured data and converting it into actionable insights, driven by a strong passion for data transformation to extract valuable outcomes.
 
-  <h1 align="center">Hi there 👋, I'm Maheedhar</h1>
+  <h1 align="center">Hey there 👋, I'm Maheedhar</h1>
 </p>
 
 
