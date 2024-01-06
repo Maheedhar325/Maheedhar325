@@ -1,5 +1,5 @@
+<h2>Business Intelligence/ Data Analyst</h2> 
 <p align="center">
-<h2>Data/Business Intelligence Analyst</h2> 
 ![Data/Business Intelligence Analyst](https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2204-businessanalyst.pngL.jpg)
 
 I'm a data analytics engineer, I thrive on handling unstructured data and converting it into actionable insights, driven by a strong passion for data transformation to extract valuable outcomes.
