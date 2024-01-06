@@ -1,4 +1,6 @@
 <p align="center">
+
+<h2>Business Intelligence/ Data Analyst</h2>
   
 ![Data/Business Intelligence Analyst](https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2204-businessanalyst.pngL.jpg)
 
