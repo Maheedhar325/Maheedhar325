@@ -1,6 +1,6 @@
 <p align="center">
   
-![Data Analyst](https://camo.githubusercontent.com/fbf24ea9d3eb1c62b1d9a7b93ea7c5608fd6d7bfc4f5d90a8d99adb2ea3429d4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)
+![Data/Business Intelligence Analyst](https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2204-businessanalyst.pngL.jpg)
 
 I'm a data analytics engineer, I thrive on handling unstructured data and converting it into actionable insights, driven by a strong passion for data transformation to extract valuable outcomes.
 
