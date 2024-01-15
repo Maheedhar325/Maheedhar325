@@ -71,18 +71,19 @@ I'm a data analytics engineer, I thrive on handling unstructured data and conver
 
 ### Data & Analytics Expertise
 <div align="center">
-  <img src="https://img.shields.io/badge/ETL-%23008080.svg?&style=for-the-badge&logo=etl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Lake-%23FF4500.svg?&style=for-the-badge&logo=data-lake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lakehouse-%23FFD700.svg?&style=for-the-badge&logo=lakehouse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-%232E8B57.svg?&style=for-the-badge&logo=data-visualization&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSIS-%2300BFFF.svg?&style=for-the-badge&logo=ssis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visio-%238A2BE2.svg?&style=for-the-badge&logo=visio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Integration-%239ACD32.svg?&style=for-the-badge&logo=data-integration&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBMS-%23FF6347.svg?&style=for-the-badge&logo=dbms&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-%239400D3.svg?&style=for-the-badge&logo=data-analysis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-%23FF8C00.svg?&style=for-the-badge&logo=data-modeling&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-%23FF1493.svg?&style=for-the-badge&logo=machine-learning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dataverse-%2300CED1.svg?&style=for-the-badge&logo=dataverse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSRS-%23DC143C.svg?&style=for-the-badge&logo=ssrs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-%23FF5733.svg?&style=for-the-badge&logo=etl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Lake-%232E86AB.svg?&style=for-the-badge&logo=data-lake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lakehouse-%239639A6.svg?&style=for-the-badge&logo=lakehouse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-%23FFD700.svg?&style=for-the-badge&logo=data-visualization&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSIS-%23064D88.svg?&style=for-the-badge&logo=ssis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visio-%2361B2E4.svg?&style=for-the-badge&logo=visio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Integration-%237080A0.svg?&style=for-the-badge&logo=data-integration&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-%23A4257E.svg?&style=for-the-badge&logo=dbms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-%232F939D.svg?&style=for-the-badge&logo=data-analysis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-%23345B6B.svg?&style=for-the-badge&logo=data-modeling&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-%23F29661.svg?&style=for-the-badge&logo=machine-learning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dataverse-%231B4F72.svg?&style=for-the-badge&logo=dataverse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSRS-%23D92C2B.svg?&style=for-the-badge&logo=ssrs&logoColor=white"/>
 </div>
+
 
