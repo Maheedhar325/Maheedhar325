@@ -4,7 +4,7 @@
   
 ![Data/Business Intelligence Analyst](https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2204-businessanalyst.pngL.jpg)
 
-I'm a data analytics engineer, I thrive on handling unstructured data and converting it into actionable insights, driven by a strong passion for data transformation to extract valuable outcomes.
+I'm a data analytics engineer, I thrive on handling data and converting it into actionable insights, driven by a strong passion for data transformation to extract valuable outcomes.
 
   <h1 align="center">Hey there 👋, I'm Maheedhar </h1>
 </p>
